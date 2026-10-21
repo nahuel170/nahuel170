@@ -30,6 +30,22 @@ Proyecto full stack con **React, Redux, Node.js, Express y MongoDB**, que incorp
 - [Frontend — social_front](https://github.com/nahuel170/social_front)
 - [Backend — social_back](https://github.com/nahuel170/social_back)
 
+## 🔒 Proyectos privados y experiencia técnica
+
+Estos proyectos forman parte de mi experiencia desarrollando soluciones full stack. **Los repositorios son privados**, por lo que sus enlaces solo pueden abrirlos las personas con permisos de acceso. Puedo explicar su arquitectura y las funcionalidades implementadas.
+
+### 🎟️ LM Passar — Plataforma de eventos
+Proyecto de gestión de eventos con **React, Redux, Node.js, Express y MongoDB**, integración de **Mercado Pago**, autenticación con Google y generación de códigos QR.
+
+- [Frontend privado — passar-lm-web](https://github.com/leonardodavidcba/passar-lm-web)
+- [Backend privado — passar-lm-core](https://github.com/leonardodavidcba/passar-lm-core)
+
+### 📺 FCP — Plataforma de streaming
+Proyecto de transmisión y reproducción de video con **React, Node.js y Express**. Incluye tecnologías para streaming como **HLS, FFmpeg y Node Media Server**, junto con integración de **AWS S3** y MongoDB.
+
+- [Frontend privado — fcp-web](https://github.com/nahuel170/fcp-web)
+- [Backend privado — fcp-core](https://github.com/nahuel170/fcp-core)
+
 ## 🎯 Objetivo profesional
 
 Seguir aprendiendo, aportar al desarrollo de productos reales y fortalecer mis habilidades tanto en frontend como en backend.
