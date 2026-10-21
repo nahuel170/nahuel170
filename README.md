@@ -41,7 +41,7 @@ Seguir aprendiendo, aportar al desarrollo de productos reales y fortalecer mis h
 
 ## 📫 Contacto
 
-- **GitHub:** [@nahuel170](https://github.com/nahuel170)
+- **LinkedIn:** [Nahuel Raspo](https://www.linkedin.com/in/nahuel-raspo-93689929a/)
 - **Correo:** [nahuelraspo20@gmail.com](mailto:nahuelraspo20@gmail.com)
 
 ---
