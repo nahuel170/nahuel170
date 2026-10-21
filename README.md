@@ -30,11 +30,6 @@ Proyecto full stack con **React, Redux, Node.js, Express y MongoDB**, que incorp
 - [Frontend — social_front](https://github.com/nahuel170/social_front)
 - [Backend — social_back](https://github.com/nahuel170/social_back)
 
-### 🔐 Proyecto final — Backend web
-Aplicación backend desarrollada con **Node.js, Express y MongoDB**, con librerías para autenticación, validación y envío de correos.
-
-- [Ver repositorio](https://github.com/nahuel170/proyectofinal)
-
 ## 🎯 Objetivo profesional
 
 Seguir aprendiendo, aportar al desarrollo de productos reales y fortalecer mis habilidades tanto en frontend como en backend.
