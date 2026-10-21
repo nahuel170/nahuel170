@@ -1,16 +1,49 @@
-## Hi there 👋
+# ¡Hola! Soy Nahuel Raspo 👋
 
-<!--
-**nahuel170/nahuel170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Full Stack | Estudiante de Desarrollo de Software
 
-Here are some ideas to get you started:
+Soy de Córdoba, Argentina 🇦🇷, y estudio la **Tecnicatura Superior en Desarrollo de Software en el ISPC**. Me interesa crear aplicaciones web, diseñar APIs e integrar servicios para resolver problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente busco oportunidades para crecer profesionalmente como desarrollador y trabajar en equipo en productos tecnológicos.
+
+## 🛠️ Tecnologías y herramientas
+
+**Frontend:** JavaScript · React · HTML · CSS · Redux · Vite
+
+**Backend:** Node.js · Express · Python · APIs REST
+
+**Bases de datos:** MongoDB · PostgreSQL · SQL
+
+**Herramientas e integraciones:** Git · GitHub · Postman · Socket.IO · Mercado Pago
+
+## 🚀 Proyectos destacados
+
+### 💬 Chat en tiempo real
+Aplicación de mensajería con interfaz en **React** y backend en **Node.js / Express**, utilizando **Socket.IO** y **MongoDB**.
+
+- [Frontend — mensajerofront](https://github.com/nahuel170/mensajerofront)
+- [Backend — mensajeroback](https://github.com/nahuel170/mensajeroback)
+
+### 🌐 Social App
+Proyecto full stack con **React, Redux, Node.js, Express y MongoDB**, que incorpora comunicación en tiempo real y trabajo con integraciones externas.
+
+- [Frontend — social_front](https://github.com/nahuel170/social_front)
+- [Backend — social_back](https://github.com/nahuel170/social_back)
+
+### 🔐 Proyecto final — Backend web
+Aplicación backend desarrollada con **Node.js, Express y MongoDB**, con librerías para autenticación, validación y envío de correos.
+
+- [Ver repositorio](https://github.com/nahuel170/proyectofinal)
+
+## 🎯 Objetivo profesional
+
+Seguir aprendiendo, aportar al desarrollo de productos reales y fortalecer mis habilidades tanto en frontend como en backend.
+
+## 📫 Contacto
+
+- **GitHub:** [@nahuel170](https://github.com/nahuel170)
+- **Correo:** [nahuelraspo20@gmail.com](mailto:nahuelraspo20@gmail.com)
+
+---
+
+*Gracias por visitar mi perfil.*
